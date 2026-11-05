@@ -1,0 +1,7 @@
+.venv
+*.pyc
+__pycache__
+bot.db
+test_handlers_bot.db
+.env
+.wrangler

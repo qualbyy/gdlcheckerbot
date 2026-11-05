@@ -1,0 +1,7 @@
+name = "gdlcheckerbot"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+ADMIN_ID = "1581816068"
